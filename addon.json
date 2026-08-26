@@ -8,7 +8,7 @@
     },
     "author": "Torsten Hofmann",
     "license": "GPL-3.0-only",
-    "homepage": "",
+    "homepage": "https://github.com/henshingly/lmonext_addon-manager",
     "icon": "🧩",
     "min_core_version": "1.9.0",
     "dependencies": [],
