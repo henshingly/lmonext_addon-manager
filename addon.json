@@ -10,7 +10,7 @@
     "license": "GPL-3.0-only",
     "homepage": "https://github.com/henshingly/lmonext_addon-manager",
     "icon": "🧩",
-    "min_core_version": "1.9.0",
+    "min_core_version": "1.9.1",
     "dependencies": [],
     "admin_handlers": ["handler_addons.php"],
     "admin_views": {
