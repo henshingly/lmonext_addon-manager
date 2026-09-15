@@ -3,6 +3,7 @@
  * Project: LMOnext
  * Filename: handler_addons.php
  * Fileversion: 1.5.0
+
  *
  * PHP version 8.2
  *
